@@ -1,4 +1,4 @@
-# **SVR Model for Financial Predictions**
+# **Linear Regression Model for Financial Predictions**
 
 This repository contains an implementation of an Linear Regression model, specifically designed for predicting the prices of financial instruments such as currencies, stocks, and cryptocurrencies. The Linear Regression algorithm leverages gradient boosting techniques, enabling it to capture intricate patterns in price movements and handle various dataset characteristics effectively. This approach enhances the accuracy and robustness of price forecasts across various datasets.
 
